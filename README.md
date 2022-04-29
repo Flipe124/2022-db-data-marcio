@@ -19,3 +19,7 @@ sudo apt install graphviz
 # Comando para subir o pgAdmin e o postgres com Docker
 
 - docker-compose up -d 
+
+# Criação do servidor
+
+- https://www.programandocomcarlos.com.br/2020/01/pgadmin-4-configurando-um-server.html
